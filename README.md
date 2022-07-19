@@ -56,9 +56,7 @@ Inclusive flashing bootloader following [Sony SDK Flash Bootloader](https://deve
   ```make```
 
 - Plugin Sony Spresense board and flash nuttx.spk to device:
-
-  ```tools/flash.sh -c /dev/ttyUSB0 nuttx.spk
-  ```
+  ```tools/flash.sh -c /dev/ttyUSB0 nuttx.spk ```
  
 - After successfull flash open a terminal program or minicom
    (e.g. use [Chrome browser serial terminal](https://googlechromelabs.github.io/serial-terminal) )
