@@ -17,7 +17,7 @@ config EXAMPLES_LTE_AT_CMD_PROGNAME
 	---help---
 		This is the name of the program that will be use when the NSH ELF
 		program is installed.
-		
+
 config EXAMPLES_LTE_AT_CMD_PRIORITY
 	int "LTE_AT_CMD task priority"
 	default 100
