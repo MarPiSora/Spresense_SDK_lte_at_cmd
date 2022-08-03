@@ -227,10 +227,6 @@ Then go to the **Connecting to the serial port and running AT commands** below.
 
 ---
 
-## License
-
-The sketches in this repository are released under [The MIT License](./LICENSE), and libraries used by these sketches are subject to their respective licenses. For example, the library of [Arduino Core codes for Spresense reference board](https://github.com/sonydevworld/spresense-arduino-compatible/tree/master/Arduino15/packages/SPRESENSE/hardware/spresense/1.0.0) used for cellular communications is released under the LGPL v2.1 license.
-
 ## Disclaimers
 
-The sketches in this repository are examples only and are not guaranteed to work. No warranty is provided. In addition, the content of this sketch is not intended for commercial use. Please use them at your own risk.
+The code in this repository are examples only and are not guaranteed to work. No warranty is provided. In addition, the content of this code example is not intended for commercial use. Please use them at your own risk.
